@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dwivedi1823
-- 👀 I’m interested in Machine Learning, Deep Learnig, and Software Development.
+- 👀 I’m interested in programming, Machine Learning, and Software Development.
 - 🌱 I’m currently learning Web Development and doing some minor projects on it.
 - 💞️ I’m looking to collaborate on ML and Web Development projects.
 - 📫 Reach me : pyushkumar999@gmail.com
