@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dwivedi1823
-- 👀 I’m interested in programming, Machine Learning, and Software Development.
-- 🌱 I’m currently learning Web Development and doing some minor projects on it.
-- 💞️ I’m looking to collaborate on ML and Web Development projects.
-- 📫 Reach me : pyushkumar999@gmail.com
+- 👀 I’m interested in Programming, Web Development, and ML.
+- 🌱 I’m currently learning Web Development and doing projects based on HTML, CSS, and JS.
+- 💞️ I’m looking to collaborate on Dev projects.
+- 📫 Reach me: pyushkumar999@gmail.com
 
 <!---
 Dwivedi1823/Dwivedi1823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
